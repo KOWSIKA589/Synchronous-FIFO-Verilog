@@ -44,7 +44,7 @@ The design demonstrates:
 
 * Verilog HDL
 * HDL Simulation Tool
-* GTKWave / ModelSim / Vivado *(as applicable)*
+* EDA Playground/Vivado
 
 ## 🎯 Learning Outcomes
 
@@ -56,5 +56,5 @@ The design demonstrates:
 
 ## 👩‍💻 Author
 
-**S. Kowsika**
+KOWSIKA S
 Electronics and Communication Engineering (ECE)
